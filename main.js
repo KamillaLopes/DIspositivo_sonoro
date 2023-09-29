@@ -43,3 +43,27 @@ function tocaSomToim () {
 }
 
 document.querySelector('.tecla_toim');
+
+
+
+function tocaSomPsh () {
+    document.querySelector('#som_tecla_psh').play();
+}
+
+document.querySelector('.tecla_psh');
+
+
+
+function tocaSomTic () {
+    document.querySelector('#som_tecla_tic').play();
+}
+
+document.querySelector('.tecla_tic');
+
+
+
+function tocaSomTom () {
+    document.querySelector('#som_tecla_tom').play();
+}
+
+document.querySelector('.tecla_tom');
