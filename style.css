@@ -39,12 +39,12 @@
     color: var(--vermelha);
     cursor: pointer;
     height: 120px;
-    font-size: 25px;
+    font-size: 15px;
     font-weight: bold;
     line-height: 120px;
     text-align: center;
     width: 120px;
-    word-break:normal;
+    word-break:break-all;
   }
   
   .tecla.ativa,
