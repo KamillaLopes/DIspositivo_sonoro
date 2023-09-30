@@ -44,6 +44,7 @@
     line-height: 120px;
     text-align: center;
     width: 120px;
+    word-wrap: break-word;
   }
   
   .tecla.ativa,
