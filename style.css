@@ -21,6 +21,7 @@
     color: var(--branca);
     margin-bottom: 20px;
     font-size: 2rem;
+    font-weight: bolder;
   }
   
   .teclado {
