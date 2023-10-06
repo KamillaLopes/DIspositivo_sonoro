@@ -23,6 +23,11 @@
     font-size: 2rem;
     font-weight: bolder;
   }
+
+  .img {
+    height: 50-x;
+    width: 70px;
+  }
   
   .teclado {
     background: linear-gradient(to bottom, #f1f086 0%,#f3e501 100%);
