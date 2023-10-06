@@ -46,6 +46,11 @@ h1 {
   width: 120px;
 }
 
+.tecla_tic {
+  font-size: 7px;
+
+}
+
 .tecla.ativa,
 .tecla:active {
   background-color: var(--vermelha);
