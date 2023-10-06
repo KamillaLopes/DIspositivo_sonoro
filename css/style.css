@@ -39,9 +39,9 @@ h1 {
   color: var(--vermelha);
   cursor: pointer;
   height: 120px;
-  font-size: 60px;
+  font-size: 13px;
   font-weight: bold;
-  line-height: 120px;
+  line-height: 25px;
   text-align: center;
   width: 120px;
 }
