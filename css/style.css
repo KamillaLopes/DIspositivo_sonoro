@@ -53,6 +53,10 @@
     width: 130px;
     word-break: initial;
   }
+
+  .bone {
+    border-radius: 30px;
+  }
   
   .tecla.ativa,
   .tecla:active {
