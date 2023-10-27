@@ -1,11 +1,10 @@
-//Declaração/criação da função tocaSomPom
+//Declaração/criação da função
 function tocaSom(idElementoAudio) {
     document.querySelector(idElementoAudio).play();
 }
 
 //criando a referência constante listaDeTeclas e buscando a classe coletiva .tecla
 const listaDeTeclas = document.querySelectorAll('.tecla');
-
 let contador = 0;
 while(contador < listaDeTeclas.length){
     const efeito = listaDeTeclas[contador].classList[1];
